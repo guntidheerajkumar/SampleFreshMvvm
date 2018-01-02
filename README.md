@@ -1,1 +1,2 @@
-# SampleFreshMvvm
+# Sample FreshMvvm in Xamarin Forms
+
