@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SampleFreshMVVM.Pages.FirstPage">
+	<ContentPage.Content>
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical">
+    <Entry Text="{Binding CustomHeader}"  HorizontalOptions="FillAndExpand" />
+    <Button Text="Navigate To Second" Command="{Binding NavigateToSecond}" HorizontalOptions="CenterAndExpand" />
+    </StackLayout>
+    
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{DEF0657B-2C80-4554-8E0E-052BCB814A43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleFreshMVVM/PageModels/FirstPageModel.cs">
+    <Files>
+      <File FileName="SampleFreshMVVM/App.xaml.cs" Line="23" Column="42" />
+      <File FileName="SampleFreshMVVM/PageModels/FirstPageModel.cs" Line="20" Column="1" />
+      <File FileName="SampleFreshMVVM/PageModels/SecondPageModel.cs" Line="41" Column="1" />
+      <File FileName="SampleFreshMVVM/Pages/FirstPage.xaml" Line="11" Column="1" />
+      <File FileName="SampleFreshMVVM/Pages/SecondPage.xaml" Line="6" Column="104" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleFreshMVVM.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.52FAE0FF-F6EE-4782-A014-7C4D110E28A8">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.SampleFreshMVVM.iOS>
+</Properties>
